@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+    <meta charset="utf-8">
+    <title>Excursions Unlimited</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Passion+One&family=Roboto:ital@0;1&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Alegreya+SC|Quattrocento+Sans&display=swap" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body style="margin:0">
+
+    <header class="header blue">
+        <img src="images/mountains.png" alt="Mountains"/>
+        <h1>Excursions Unlimited</h1>
+        <nav>
+            <a class="menu"  href="#">
+                <img src="images/menu.png" alt="Menu">
+            </a>
+            <ul>
+                <li><a href="#">Adventures</a></li>
+                <li><a href="#">Gap Year Program</a></li>
+                <li><a href="#">About</a>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="hero_div">
+        <img class="hero_img" src="images/adventure-logo.png" alt="The Adventure Begins"/>
+    </div>
+
+    <section class="destinations red">
+        <h2>Featured Destinations</h2>
+        <section>
+            <div>
+                <img src="images/iceland.jpg" alt="Igloo and Northern Lights"/>
+                <div class="destinations_bottom">
+                    <h3>Iceland</h3>
+                    <p>A Place of Wonder and Discovery.</p>
+                    <ul>
+                        <li><a class="blue" href="#">DETAILS</a></li>
+                        <li><a class="red" href="#">BOOK</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div>
+                <img src="images/canada.jpg" alt="Riverside and Mountains"/>
+                <div class="destinations_bottom">
+                    <h3>Alberta, Canada</h3>
+                    <p>Glowing Hearts and Big Adventure.</p>
+                    <ul>
+                        <li><a class="blue" href="#">DETAILS</a></li>
+                        <li><a class="red" href="#">BOOK</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div>
+                <img src="images/norway.jpg" alt="Northern Lights Over Mountains"/>
+                <div class="destinations_bottom">
+                    <h3>Norway</h3>
+                    <p>Powered By Nature</p>
+                    <ul>
+                        <li><a class="blue" href="#">DETAILS</a></li>
+                        <li><a class="red" href="#">BOOK</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div>
+                <img src="images/hokkaido.jpg" alt="Snowy Field and Distant Mountain"/>
+                <div class="destinations_bottom">
+                    <h3>Hokkaido, Japan</h3>
+                    <p>Discover Japan's Norther Frontier</p>
+                    <ul>
+                        <li><a class="blue" href="#">DETAILS</a></li>
+                        <li><a class="red" href="#">BOOK</a></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+    </section>
+
+    <section class="travel_planner blue">
+        <h2>Request a Travel Planner</h2>
+        <form>
+            <div class="text_entry">
+                <label for="first">First Name</label>
+                <input type="text" id="first" name="first name"/>
+            </div>
+            <div class="text_entry">
+                <label for="last">Last Name</label>
+                <input type="text" id="last" name="last name"/>
+            </div>
+            <div class="text_entry">
+                <label for="email">Email</label>
+                <input type="text" id="email" name="email"/>
+            </div>
+            <div class="text_entry">
+                <label for="phone">Phone Number</label>
+                <input type="text" id="phone" name="phone number"/>
+            </div>
+
+            <p>Please send me information on the following adventures:</p>
+            <div class="checkboxes">
+                <div>
+                    <input type="checkbox" name="destination" id="iceland" value="Iceland"/>
+                    <label for="iceland">Iceland</label>
+                </div>
+                <div>
+                    <input type="checkbox" name="destination" id="norway" value="Norway"/>
+                    <label for="norway">Norway</label>
+                </div>
+            </div>
+            <div class="checkboxes checkbox_right">
+                <div>
+                    <input type="checkbox" name="destination" id="alberta" value="Alberta, Canada"/>
+                    <label for="alberta">Alberta, Canada</label>
+                </div>
+                <div>
+                    <input type="checkbox" name="destination" id="hokkaido" value="Hokkaido, Japan"/>
+                    <label for="hokkaido">Hokkaido, Japan</label>
+                </div>
+            </div>
+            <input class="submit red" type="submit" value="SUBMIT"/>
+        </form>
+    </section>
+
+    <section class="testimonials red">
+        <h2>What People Are Saying</h2>
+        <section>
+            <div>
+                <img src="images/natalie.jpg" alt="Woman in winter hat."/>
+                <h3>Natalie</h3>
+                <p>"Best adventure trip I have ever taken! Highly recommend!"</p>
+            </div>
+            <div>
+                <img src="images/amir.jpg" alt="Man in sweater."/>
+                <h3>Amir</h3>
+                <p>"10/10! Would definitely go again!"</p>
+            </div>
+            <div>
+                <img src="images/jada.jpg" alt="Woman wearing headphones."/>
+                <h3>Jada</h3>
+                <p>"The tour guides are the best! I loved this adventure trip!"</p>
+            </div>
+            <div>
+                <img src="images/christopher.jpg" alt="Smiling man in red shirt."/>
+                <h3>Christopher</h3>
+                <p>"Great! I am already planning my next trip."</p>
+            </div>
+        </section>
+    </section>
+
+    <footer class="blue">
+        <p>Copyright 2021 - Excursions Unlimited</p>
+    </footer>
+</body>
+
+</html>
