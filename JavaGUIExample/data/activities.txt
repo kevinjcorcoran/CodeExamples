@@ -1,0 +1,29 @@
+BKE@@1@@Afternoon Bike@@Sunny bike around the park.@@200@@30@@11@@North Shore
+BKE@@8@@Afternoon Bike@@Run, then bike around the park.@@300@@35@@10@@North Shore
+BKE@@2@@Peloton Class@@Alex T.'s Hip Hop Ride.@@330@@40@@33@@Schenley Park
+BKE@@15@@Morning Bike@@Morning bike ride before work. @@350@@40@@42@@Park D
+BKE@@3@@Morning Bike@@Rainy and muddy ride, but got it done. @@400@@50@@51@@Park B
+BKE@@13@@Peloton Class@@Codie's Pop Ride.@@300@@40@@33@@Park C
+RUN@@4@@Lunch Run@@Sunny run around the stadiums and riverwalk.@@200@@30@@2.1@@North Shore
+RUN@@6@@Evening Run@@Night run around the park.@@330@@40@@3.3@@Park A
+RUN@@5@@Lunch Run@@Sunny run around the stadiums and riverwalk.@@410@@40@@4.2@@North Shore
+RUN@@11@@Evening Run@@Night run around the stadiums and riverwalk.@@390@@42@@4.1@@North Shore
+RUN@@6@@Morning Run@@Sunny run around the park.@@509@@50@@5.1@@Park B
+RUN@@15@@Evening Run@@Treadmill Run@@600@@55@@6.1@@Home
+RUN@@7@@Morning Run@@Rainy run before work.@@100@@10@@1.1
+RUN@@20@@Lunch Run@@Fun run with the group.@@230@@30@@3.1
+RUN@@8@@Lunch Run@@Never miss a Monday! @@300@@28@@3.06
+RUN@@27@@Morning Run@@5k on the treadmill before work. @@300@@30@@3.1@@Home
+RUN@@9@@Morning Run@@ @@1100@@35@@10.6
+SWM@@1@@Morning Swim@@Regular swim.@@300@@10@@2.000@@YMCA
+SWM@@10@@Morning Swim@@Regular swim.@@240@@10@@2.400
+SWM@@7@@Morning Swim@@ @@123@@10@@2.800@@YMCA
+SWM@@11@@Evening Swim@@Regular swim.@@526@@10@@3.600
+SWM@@20@@Evening Swim@@Regular swim.@@120@@10@@3.600@@Boyce Park Pool
+SWM@@12@@Evening Swim@@Regular swim.@@400@@10@@4.000
+SWM@@3@@Evening Swim@@Regular swim.@@125@@10@@8.000
+STR@@4@@Morning Lift@@Chest and Back@@400@@30@@LA Fitness
+STR@@12@@After Work Lift@@Arms@@350@@45@@Home Gym
+STR@@16@@Short Nighttime HIIT@@Abs and Legs@@300@@20@@Home
+STR@@8@@Morning Lift@@Leg Day@@400@@45@@LA Fitness
+STR@@6@@Lunch Lift@@Dumbells in the Office@@200@@20
